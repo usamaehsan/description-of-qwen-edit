@@ -1,2 +1,3 @@
 # Pricing according to my calculations:
-<img width="728" height="339" alt="image" src="https://github.com/user-attachments/assets/f69f9fb9-c953-454f-931b-7b8cda62cf88" />
+<img width="662" height="336" alt="image" src="https://github.com/user-attachments/assets/b39d38ec-0811-4a7b-9863-84488f52e036" />
+
